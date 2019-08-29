@@ -1,0 +1,2 @@
+[{"DateObserved": "2019-07-31 ", "HourObserved": 7, "LocalTimeZone": "PST", "ReportingArea": "Aberdeen", "StateCode": "WA", "Latitude": 46.9725, "Longitude": -123.8317, "ParameterName": "PM2.5", "AQI": 17, "Category": {"Number": 1, "Name": "Good"}, "Concentration": 4.0, "Unit": "ug/m3"},
+{"DateObserved": "2019-07-31 ", "HourObserved": 7, "LocalTimeZone": "PST", "ReportingArea": "Albany", "StateCode": "OR", "Latitude": 44.6157, "Longitude": -123.0915, "ParameterName": "PM2.5", "AQI": 18, "Category": {"Number": 1, "Name": "Good"}, "Concentration": 4.0, "Unit": "ug/m3"}]
